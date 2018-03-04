@@ -2,4 +2,6 @@ button {
 	background-color: blue;
 	border-color: blue;
 	color: white;
+	
+	/* Add border radius */
 }
