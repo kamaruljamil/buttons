@@ -1,5 +1,12 @@
 button {
-	background-color: blue;
-	border-color: blue;
+	background-color: #498dfc;
+	border: #498dfc;
+	border-radius: 25px;
+	font-size: large;
+	font-weight: bold;
 	color: white;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
